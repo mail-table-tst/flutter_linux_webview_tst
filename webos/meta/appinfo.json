@@ -1,0 +1,29 @@
+{
+    "id": "com.flutter.app.linux_webview",
+    "version": "1.0.0",
+    "vendor": "LG Electronics",
+    "type": "flutter",
+    "main": "",
+    "title": "Flutter linux_webview app",
+    "icon": "icon.png",
+    "iconColor": "#ffffff",
+    "largeIcon": "icon.png",
+    "handlesRelaunch": true,
+    "visible": true,
+    "defaultWindowType": "card",
+    "trustLevel": "trusted",
+    "resolution": "1920x1080",
+    "locationHint":"west",
+    "noSplashOnLaunch":true,
+    "spinnerOnLaunch": false,
+    "transparent":false,
+    "uiRevision":2,
+    "requiredPermissions": [
+        "all",
+        "applications",
+        "applications.launcher",
+        "applications.operation",
+        "settings",
+        "system"
+    ]
+}
